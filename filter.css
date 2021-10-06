@@ -1,0 +1,347 @@
+.navbar{
+    background-color: #ce0505;
+    height: 70px;
+}
+.edlogo{
+    position:absolute;
+    width: 52px;
+    height: 52px;
+    border:solid 1px;
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 1px 10px 4px;
+    width: 32px;
+    height: 47px;
+    font-family: Poppins;
+    font-size: 33px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+    top:6.5px;
+    left:102px;
+}
+body{
+    margin:0px;
+}
+.title{
+   max-width:512px;
+   height: 51px;
+   font-family: Poppins;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  margin: 37px 25px 27px 113px;
+  position:relative;
+  top:20px;
+}
+.content-image{
+    width: 82px;
+  height: 82px;
+  margin: 0 41px 0 0;
+  opacity: 1;
+  border-radius: 23px;
+}
+.content{
+    margin-top:20px;
+    width:700px;
+    height: 150px;
+    margin-left: 363px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+.heading{
+    max-width: 298px;
+    height: 43px;
+    margin: 14px 267.4px 5px 41px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position: relative;
+    top:-52px;
+    left:-60px;
+}
+.fort{
+    position:absolute;
+    max-width: 39px;
+  height: 23px;
+  margin: 5px 521.4px 5px 46px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  top:28px;
+  left:-42px;
+
+}
+.address{
+    width: 370px;
+    height: 23px;
+    margin: 5px 195.4px 38px 46px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position:absolute;
+    top:50px;
+    left:-42px;
+}
+.cuisines{
+    width: 140px;
+  height: 118px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: lighter;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+  position: absolute;
+  top:105px;
+  left:-100px;
+}
+.costtwo{
+    width: 140px;
+    height: 118px;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: lighter;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position: absolute;
+    top:130px;
+    left:-100px;
+}
+.bakery{
+    position: absolute;
+    top:105px;
+    width: 251px;
+  height: 69px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  left:18px;
+}
+.rupee{
+    position: absolute;
+    top:130px;
+    width: 251px;
+  height: 69px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  left:18px;
+}
+.sidebox{
+    width: 180px;
+  height: 438px;
+  margin: 27px 45px 8px 113px;
+  padding: 17px 25px 31px 26px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+  position:relative;
+  top:-438px;
+}
+.filters{
+    width: 55px;
+    height: 25px;
+    margin: 0 154px 5px 0;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position:relative;
+    top:-5px;
+}
+.sel-location{
+    width: 106px;
+  height: 20px;
+  position: relative;
+  top:-9px;
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.locationBox{
+    width: 170px;
+    height: 27px;
+    position:relative;
+    top:-6px;
+   
+    border-radius: 3px;
+    border: solid 2px #8c96ab;
+  }
+.option{
+    width:180px;
+    padding-right: 100px;
+    border-radius: 3px;
+    border: solid 10px #8c96ab;
+}
+.cuisines-side{
+    width: 150px;
+    height: 20px;
+    margin-top:8px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #192f60;
+}
+.line1{
+    margin-top: 10px;
+}
+.nc{
+    border: solid 1.5px #fafbfc;
+    margin-right: 7px;
+    border-radius: 1.5px;
+    border: solid 1.5px #3a5075;
+    height:10px;
+}
+.nrth-ind{
+    width: 85px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+.lines{
+    margin-top:5px;
+}
+.login{
+    text-decoration: none;
+    color: #fff;
+    width: 43px;
+  height: 23px;
+  
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: right;
+  color: #fff;
+  border: solid 2px transparent;
+  position:absolute;
+  top:22px;
+  right:310px;
+}
+.create-ac{
+    text-decoration: none;
+    color:#fff;
+    width: 152px;
+    height: 26px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: right;
+    color: #fff;
+    position:absolute;
+    top:13px;
+    right:110px;
+    border:solid 2px #fff;
+    padding:8px 7px;
+    border-radius: 3px;
+}
+.create-ac:hover{
+    border:solid 2px #fff;
+}
+.login:hover{
+    border:solid 2px #fff;
+}
+.slide-div{
+    position: absolute;
+    right:510px;
+    top:580px;
+}
+.slide-boxes-1{
+    margin:0px 3px;
+    width: 40px;
+    height: 40px;
+    border-radius: 7px;
+  border: solid 1px #8c96ab;
+  background-color: #8c96ab;
+  padding:0px 6px;
+  font:poppins;
+  color:#fff;
+  font-weight:600:
+}
+.slide-boxes{
+    margin:0px 3px;
+    width: 40px;
+    height: 40px;
+    border-radius: 7px;
+  border: solid 1px #8c96ab;
+  padding:0px 6px;
+  font:poppins;
+  color:#8c96ab;
+  font-weight:600:
+}
